@@ -33,3 +33,7 @@ C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\obj\Debug
 C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\obj\Debug\net8.0\refint\ProductClientHub.Communication.dll
 C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.pdb
 C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ref\ProductClientHub.Communication.dll
+C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Exceptions.dll
+C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Exceptions.pdb
+C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.csproj.AssemblyReference.cache
+C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductC.BE77A126.Up2Date

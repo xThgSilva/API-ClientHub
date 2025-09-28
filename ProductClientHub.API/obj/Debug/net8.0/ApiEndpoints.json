@@ -36,16 +36,6 @@
   },
   {
     "ContainingType": "ProductClientHub.API.Controllers.ClientsController",
-    "Method": "Update",
-    "RelativePath": "api/Clients",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ProductClientHub.API.Controllers.ClientsController",
     "Method": "GetAll",
     "RelativePath": "api/Clients",
     "HttpMethod": "GET",
@@ -78,6 +68,42 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductClientHub.API.Controllers.ClientsController",
+    "Method": "Update",
+    "RelativePath": "api/Clients/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "ProductClientHub.Communication.Requests.RequestClientJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      },
+      {
+        "Type": "ProductClientHub.Communication.Responses.ResponseErrorMessageJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ]
   },
   {
     "ContainingType": "ProductClientHub.API.Controllers.ClientsController",

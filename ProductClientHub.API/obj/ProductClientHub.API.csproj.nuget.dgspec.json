@@ -124,7 +124,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -454,6 +454,9 @@
         }
       },
       "ProductClientHub.Communication/1.0.0": {
+        "dependencies": {
+          "ProductClientHub.Exceptions": "1.0.0"
+        },
         "runtime": {
           "ProductClientHub.Communication.dll": {
             "assemblyVersion": "1.0.0.0",

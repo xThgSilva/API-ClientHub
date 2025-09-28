@@ -631,6 +631,9 @@
       "ProductClientHub.Communication/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ProductClientHub.Exceptions": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/ProductClientHub.Communication.dll": {}
         },
