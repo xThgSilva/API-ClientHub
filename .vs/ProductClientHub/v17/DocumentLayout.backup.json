@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thiago\\Documents\\ProductClientHub.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB659ED6-557A-4526-B66A-532C4E19B028}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\thiago\\documents\\productclienthub.api\\productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB659ED6-557A-4526-B66A-532C4E19B028}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296273B0-2975-48FD-B916-E5EDE46C7FB3}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|c:\\users\\thiago\\documents\\productclienthub.api\\productclienthub.communication\\responses\\responseerrormessagejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296273B0-2975-48FD-B916-E5EDE46C7FB3}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|solutionrelative:productclienthub.communication\\responses\\responseerrormessagejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB659ED6-557A-4526-B66A-532C4E19B028}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\thiago\\documents\\productclienthub.api\\productclienthub.api\\usecases\\clients\\register\\registerclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB659ED6-557A-4526-B66A-532C4E19B028}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\usecases\\clients\\register\\registerclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseErrorMessageJson.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Documents\\ProductClientHub.API\\ProductClientHub.Communication\\Responses\\ResponseErrorMessageJson.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.Communication\\Responses\\ResponseErrorMessageJson.cs",
+              "ToolTip": "C:\\Users\\Thiago\\Documents\\ProductClientHub.API\\ProductClientHub.Communication\\Responses\\ResponseErrorMessageJson.cs",
+              "RelativeToolTip": "ProductClientHub.Communication\\Responses\\ResponseErrorMessageJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T02:33:28.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Documents\\ProductClientHub.API\\ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\Thiago\\Documents\\ProductClientHub.API\\ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T01:09:15.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterClientUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Documents\\ProductClientHub.API\\ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "ToolTip": "C:\\Users\\Thiago\\Documents\\ProductClientHub.API\\ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "RelativeToolTip": "ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T00:42:25.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
