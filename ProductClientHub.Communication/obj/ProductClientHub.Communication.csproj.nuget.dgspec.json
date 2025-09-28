@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thiago\\Documents\\ProductClientHub.API\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj": {}
+    "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thiago\\Documents\\ProductClientHub.API\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj": {
+    "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thiago\\Documents\\ProductClientHub.API\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj",
+        "projectUniqueName": "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj",
         "projectName": "ProductClientHub.Communication",
-        "projectPath": "C:\\Users\\Thiago\\Documents\\ProductClientHub.API\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj",
+        "projectPath": "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj",
         "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thiago\\Documents\\ProductClientHub.API\\ProductClientHub.Communication\\obj\\",
+        "outputPath": "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.Communication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
