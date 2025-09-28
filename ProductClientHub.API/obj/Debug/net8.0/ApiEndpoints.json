@@ -15,7 +15,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "ProductClientHub.Communication.Responses.ResponseClientJson",
+        "Type": "ProductClientHub.Communication.Responses.ResponseShortClientJson",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -52,7 +52,22 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "ProductClientHub.Communication.Responses.ResponseAllClientsJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      }
+    ]
   },
   {
     "ContainingType": "ProductClientHub.API.Controllers.ClientsController",

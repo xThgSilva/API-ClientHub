@@ -21,3 +21,15 @@ C:\Users\Thiago\Desktop\API-ClientHub\ProductClientHub.Communication\obj\Debug\n
 C:\Users\Thiago\Desktop\API-ClientHub\ProductClientHub.Communication\obj\Debug\net8.0\refint\ProductClientHub.Communication.dll
 C:\Users\Thiago\Desktop\API-ClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.pdb
 C:\Users\Thiago\Desktop\API-ClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ref\ProductClientHub.Communication.dll
+C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Communication.deps.json
+C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Communication.dll
+C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Communication.pdb
+C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.AssemblyInfo.cs
+C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.sourcelink.json
+C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.dll
+C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\obj\Debug\net8.0\refint\ProductClientHub.Communication.dll
+C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.pdb
+C:\Users\Thiago\Documents\API-ClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ref\ProductClientHub.Communication.dll

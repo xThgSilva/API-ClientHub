@@ -35,17 +35,17 @@
             "content": {
               "text/plain": {
                 "schema": {
-                  "$ref": "#/components/schemas/ResponseClientJson"
+                  "$ref": "#/components/schemas/ResponseShortClientJson"
                 }
               },
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/ResponseClientJson"
+                  "$ref": "#/components/schemas/ResponseShortClientJson"
                 }
               },
               "text/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/ResponseClientJson"
+                  "$ref": "#/components/schemas/ResponseShortClientJson"
                 }
               }
             }
@@ -88,7 +88,27 @@
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ResponseAllClientsJson"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ResponseAllClientsJson"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ResponseAllClientsJson"
+                }
+              }
+            }
+          },
+          "204": {
+            "description": "No Content"
           }
         }
       },
@@ -143,15 +163,14 @@
         },
         "additionalProperties": false
       },
-      "ResponseClientJson": {
+      "ResponseAllClientsJson": {
         "type": "object",
         "properties": {
-          "id": {
-            "type": "string",
-            "format": "uuid"
-          },
-          "name": {
-            "type": "string",
+          "clients": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ResponseShortClientJson"
+            },
             "nullable": true
           }
         },
@@ -167,6 +186,20 @@
             },
             "nullable": true,
             "readOnly": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ResponseShortClientJson": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

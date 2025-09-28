@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JRlb7e7iYS0=",
+  "dgSpecHash": "4wM3eQvnsu4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.API\\ProductClientHub.API.csproj",
+  "projectFilePath": "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.API\\ProductClientHub.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thiago\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
     "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.9\\microsoft.data.sqlite.core.9.0.9.nupkg.sha512",

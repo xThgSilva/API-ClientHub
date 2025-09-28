@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.API\\ProductClientHub.API.csproj": {}
+    "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.API\\ProductClientHub.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.API\\ProductClientHub.API.csproj": {
+    "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.API\\ProductClientHub.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.API\\ProductClientHub.API.csproj",
+        "projectUniqueName": "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.API\\ProductClientHub.API.csproj",
         "projectName": "ProductClientHub.API",
-        "projectPath": "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.API\\ProductClientHub.API.csproj",
+        "projectPath": "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.API\\ProductClientHub.API.csproj",
         "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.API\\obj\\",
+        "outputPath": "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj": {
-                "projectPath": "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj"
+              "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj": {
+                "projectPath": "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj"
               },
-              "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj": {
-                "projectPath": "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj"
+              "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj"
               }
             }
           }
@@ -97,14 +97,14 @@
         }
       }
     },
-    "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj": {
+    "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj",
+        "projectUniqueName": "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj",
         "projectName": "ProductClientHub.Communication",
-        "projectPath": "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj",
+        "projectPath": "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj",
         "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.Communication\\obj\\",
+        "outputPath": "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.Communication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -162,14 +162,14 @@
         }
       }
     },
-    "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj": {
+    "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj",
+        "projectUniqueName": "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj",
         "projectName": "ProductClientHub.Exceptions",
-        "projectPath": "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj",
+        "projectPath": "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj",
         "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thiago\\Desktop\\API-ClientHub\\ProductClientHub.Exceptions\\obj\\",
+        "outputPath": "C:\\Users\\Thiago\\Documents\\API-ClientHub\\ProductClientHub.Exceptions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
