@@ -40,6 +40,7 @@ namespace ProductClientHub.API.Controllers
 
         [HttpPut]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(typeof(ResponseErrorMessageJson), StatusCodes.Status400BadRequest)]
         [ProducesResponseType(typeof(ResponseErrorMessageJson), StatusCodes.Status404NotFound)]
         [Route("{id}")]
         public IActionResult Update([FromRoute] Guid id, [FromBody] RequestClientJson request)
